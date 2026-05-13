@@ -58,14 +58,6 @@ Place and connect the following components:
 
 ---
 
-## Calculation
-
-<img width="867" height="1368" alt="WhatsApp Image 2026-05-13 at 11 41 06 AM" src="https://github.com/user-attachments/assets/fa0dc096-ffbd-4fba-8d61-5fed215d507d" />
-
-<img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/db75c2cf-49d9-4bb9-bf05-0822b71e28fa" />
-
----
-
 ## Analysis
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
@@ -75,4 +67,14 @@ Compare the simulation results with the theoretical calculations and discuss any
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
 
+## Calculation
 
+<img width="867" height="1368" alt="WhatsApp Image 2026-05-13 at 11 41 06 AM" src="https://github.com/user-attachments/assets/fa0dc096-ffbd-4fba-8d61-5fed215d507d" />
+
+<img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/db75c2cf-49d9-4bb9-bf05-0822b71e28fa" />
+
+---
+
+## Result
+
+Thus the Experiment was successfully completed and the output is verified
